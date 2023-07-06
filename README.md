@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/stars/FantasticSukhi/pyphisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/FantasticSukhi/pyphisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/FantasticSukhi/pyphisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/FantasticSukhi/pyphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/FantasticSukhi/pyphisher?style=for-the-badge&color=blue">
   <img src="https://hits.dwyl.com/KasRoudra/PyPhisher.svg" width="140" height="28">
 <br>
 <br>
@@ -23,7 +23,7 @@
 
 ### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/FantasticSukhi/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -41,7 +41,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/FantasticSukhi/PyPhisher```
 
 ##### Enter the directory
  - ```cd PyPhisher```
@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/FantasticSukhi/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull FantasticSukhi/pyphisher`
+ - `sudo docker run --rm -it FantasticSukhi/pyphisher`
 
 ### Support
 
@@ -128,8 +128,8 @@ options:
  - Get IP Address and many other details along with login credentials
 
 #### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
+ - [CamHacker](https://github.com/FantasticSukhi/CamHacker) for image phishing
+ - [VidPhisher](https://github.com/FantasticSukhi/VidPhisher) for video phishing
 
 
 ### Requirements
@@ -162,7 +162,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/FantasticSukhi/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
